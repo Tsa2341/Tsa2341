@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shema Alai
+- 👋 Hi, I’m Shema Alain
 - 👀 I’m interested in Full-stack development
 - 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on any front-end, back-end or full-stack project you've got for me
